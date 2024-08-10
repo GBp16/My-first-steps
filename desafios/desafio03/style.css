@@ -1,0 +1,66 @@
+/*links
+*/
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+/*reset
+*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+/*geral em ordem de aparição
+*/
+header {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  gap: 2rem;
+  align-items: center;
+  padding: 1rem;
+}
+header li {
+  display: inline;
+  margin: 1rem;
+}
+section {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    display: flex;
+    gap: 3rem;
+    list-style: none;
+    padding: 1rem;
+    margin: 1rem;
+}
+.myskills{
+  
+}
+.myprojects{
+
+}
+h4{
+
+}
+ul li{
+
+}
+footer{
+
+}

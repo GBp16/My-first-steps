@@ -1,0 +1,27 @@
+h1{
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 2rem;
+    color: brown;
+}
+h2{
+    background-color: bisque;
+    padding: 1rem;
+    margin-top: 5rem;
+}
+.lista {
+    color: blueviolet;
+    text-align: center;
+    margin-top: 2rem;
+}
+ul{
+    list-style: none;
+}
+.lista-01{
+    border: 1px solid burlywood;
+    background-color: bisque;
+}
+h4{
+    text-align: right;
+    font-size: 20px;
+}
